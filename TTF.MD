@@ -147,6 +147,11 @@
 |AR FangXinShuH7C80B5 MD.ttf|AR FangXinShuH7C80B5 MD|ARFangXinShuH7C80B5-MD|AR FangXinShuH7C80B5 MD|Regular|1.00|
 |AR FangXinShuH7C80DB5 HV.ttf|AR FangXinShuH7C80DB5 HV|ARFangXinShuH7C80DB5-HV|AR FangXinShuH7C80DB5 HV|Regular|1.30|
 |AR FangXinShuH7C80DGB HV.ttf|AR FangXinShuH7C80DGB HV|ARFangXinShuH7C80DGB-HV|AR FangXinShuH7C80DGB HV|Regular|1.30|
+|AR FangXinShuH7C80G30 BD.ttf|AR FangXinShuH7C80G30 BD|ARFangXinShuH7C80G30-BD|AR FangXinShuH7C80G30 BD|Regular|1.00|
+|AR FangXinShuH7C80G30 DB.ttf|AR FangXinShuH7C80G30 DB|ARFangXinShuH7C80G30-DB|AR FangXinShuH7C80G30 DB|Regular|1.00|
+|AR FangXinShuH7C80G30 EB.ttf|AR FangXinShuH7C80G30 EB|ARFangXinShuH7C80G30-EB|AR FangXinShuH7C80G30 EB|Regular|1.00|
+|AR FangXinShuH7C80G30 HV.ttf|AR FangXinShuH7C80G30 HV|ARFangXinShuH7C80G30-HV|AR FangXinShuH7C80G30 HV|Regular|1.00|
+|AR FangXinShuH7C80G30 MD.ttf|AR FangXinShuH7C80G30 MD|ARFangXinShuH7C80G30-MD|AR FangXinShuH7C80G30 MD|Regular|1.00|
 |AR FangXinShuH7C80GB HV.ttf|AR FangXinShuH7C80GB HV|ARFangXinShuH7C80GB-HV|AR FangXinShuH7C80GB HV|Regular|1.30|
 |AR FangXinShuH7C80GB MD.ttf|AR FangXinShuH7C80GB MD|ARFangXinShuH7C80GB-MD|AR FangXinShuH7C80GB MD|Regular|1.00|
 |AR FangXinShuH7C90B5 BD.ttf|AR FangXinShuH7C90B5 BD|ARFangXinShuH7C90B5-BD|AR FangXinShuH7C90B5 BD|Regular|1.00|
@@ -156,6 +161,11 @@
 |AR FangXinShuH7C90B5 MD.ttf|AR FangXinShuH7C90B5 MD|ARFangXinShuH7C90B5-MD|AR FangXinShuH7C90B5 MD|Regular|1.00|
 |AR FangXinShuH7C90DB5 HV.ttf|AR FangXinShuH7C90DB5 HV|ARFangXinShuH7C90DB5-HV|AR FangXinShuH7C90DB5 HV|Regular|1.30|
 |AR FangXinShuH7C90DGB HV.ttf|AR FangXinShuH7C90DGB HV|ARFangXinShuH7C90DGB-HV|AR FangXinShuH7C90DGB HV|Regular|1.30|
+|AR FangXinShuH7C90G30 BD.ttf|AR FangXinShuH7C90G30 BD|ARFangXinShuH7C90G30-BD|AR FangXinShuH7C90G30 BD|Regular|1.00|
+|AR FangXinShuH7C90G30 DB.ttf|AR FangXinShuH7C90G30 DB|ARFangXinShuH7C90G30-DB|AR FangXinShuH7C90G30 DB|Regular|1.00|
+|AR FangXinShuH7C90G30 EB.ttf|AR FangXinShuH7C90G30 EB|ARFangXinShuH7C90G30-EB|AR FangXinShuH7C90G30 EB|Regular|1.00|
+|AR FangXinShuH7C90G30 HV.ttf|AR FangXinShuH7C90G30 HV|ARFangXinShuH7C90G30-HV|AR FangXinShuH7C90G30 HV|Regular|1.00|
+|AR FangXinShuH7C90G30 MD.ttf|AR FangXinShuH7C90G30 MD|ARFangXinShuH7C90G30-MD|AR FangXinShuH7C90G30 MD|Regular|1.00|
 |AR FangXinShuH7C90GB HV.ttf|AR FangXinShuH7C90GB HV|ARFangXinShuH7C90GB-HV|AR FangXinShuH7C90GB HV|Regular|1.30|
 |AR FangXinShuH7C90GB MD.ttf|AR FangXinShuH7C90GB MD|ARFangXinShuH7C90GB-MD|AR FangXinShuH7C90GB MD|Regular|1.00|
 |AR FangXinShuH7C95B5 BD.ttf|AR FangXinShuH7C95B5 BD|ARFangXinShuH7C95B5-BD|AR FangXinShuH7C95B5 BD|Regular|1.00|
@@ -241,6 +251,16 @@
 |AR JingXiRunHeiB5HK EB.ttf|AR JingXiRunHeiB5HK EB|ARJingXiRunHeiB5HK-EB|AR JingXiRunHeiB5HK EB|Regular|1.00|
 |AR JingXiRunHeiB5HK HV.ttf|AR JingXiRunHeiB5HK HV|ARJingXiRunHeiB5HK-HV|AR JingXiRunHeiB5HK HV|Regular|1.00|
 |AR JingXiRunHeiB5HK MD.ttf|AR JingXiRunHeiB5HK MD|ARJingXiRunHeiB5HK-MD|AR JingXiRunHeiB5HK MD|Regular|1.00|
+|AR JingXiRunHeiGB BD.ttf|AR JingXiRunHeiGB BD|ARJingXiRunHeiGB-BD|AR JingXiRunHeiGB BD|Regular|1.00|
+|AR JingXiRunHeiGB DB.ttf|AR JingXiRunHeiGB DB|ARJingXiRunHeiGB-DB|AR JingXiRunHeiGB DB|Regular|1.00|
+|AR JingXiRunHeiGB EB.ttf|AR JingXiRunHeiGB EB|ARJingXiRunHeiGB-EB|AR JingXiRunHeiGB EB|Regular|1.00|
+|AR JingXiRunHeiGB HV.ttf|AR JingXiRunHeiGB HV|ARJingXiRunHeiGB-HV|AR JingXiRunHeiGB HV|Regular|1.00|
+|AR JingXiRunHeiGB MD.ttf|AR JingXiRunHeiGB MD|ARJingXiRunHeiGB-MD|AR JingXiRunHeiGB MD|Regular|1.00|
+|AR JingXiRunHeiKR BD.ttf|AR JingXiRunHeiKR BD|ARJingXiRunHeiKR-BD|AR JingXiRunHeiKR BD|Regular|1.00|
+|AR JingXiRunHeiKR DB.ttf|AR JingXiRunHeiKR DB|ARJingXiRunHeiKR-DB|AR JingXiRunHeiKR DB|Regular|1.00|
+|AR JingXiRunHeiKR EB.ttf|AR JingXiRunHeiKR EB|ARJingXiRunHeiKR-EB|AR JingXiRunHeiKR EB|Regular|1.00|
+|AR JingXiRunHeiKR HV.ttf|AR JingXiRunHeiKR HV|ARJingXiRunHeiKR-HV|AR JingXiRunHeiKR HV|Regular|1.00|
+|AR JingXiRunHeiKR MD.ttf|AR JingXiRunHeiKR MD|ARJingXiRunHeiKR-MD|AR JingXiRunHeiKR MD|Regular|1.00|
 |AR JULIAN.ttf|AR JULIAN|ARJULIAN|AR JULIAN|Regular|2.00|
 |AR KaiB5 BD.ttf|AR KaiB5 BD|ARKaiB5-BD|AR KaiB5 BD|Regular|1.00|
 |AR KaiB5 LT.ttf|AR KaiB5 LT|ARKaiB5-LT|AR KaiB5 LT|Regular|1.00|
@@ -733,3 +753,19 @@
 |Viato Light Italic.ttf|Viato Light Italic|Viato-LightItalic|Viato Light|Italic|2.001|
 |Viato Light.ttf|Viato Light|Viato-Light|Viato Light|Regular|2.001|
 |Viato.ttf|Viato|Viato|Viato|Regular|2.001|
+|AR FangXinRunYuanB5 BD.ttf|AR FangXinRunYuanB5 BD|ARFangXinRunYuanB5-BD|AR FangXinRunYuanB5 BD|Regular|1.00|
+|AR FangXinRunYuanB5 DB.ttf|AR FangXinRunYuanB5 DB|ARFangXinRunYuanB5-DB|AR FangXinRunYuanB5 DB|Regular|1.00|
+|AR FangXinRunYuanB5 EB.ttf|AR FangXinRunYuanB5 EB|ARFangXinRunYuanB5-EB|AR FangXinRunYuanB5 EB|Regular|1.00|
+|AR FangXinRunYuanB5 HV.ttf|AR FangXinRunYuanB5 HV|ARFangXinRunYuanB5-HV|AR FangXinRunYuanB5 HV|Regular|1.00|
+|AR FangXinRunYuanB5 MD.ttf|AR FangXinRunYuanB5 MD|ARFangXinRunYuanB5-MD|AR FangXinRunYuanB5 MD|Regular|1.00|
+|AR FangXinRunYuanGB BD.ttf|AR FangXinRunYuanGB BD|ARFangXinRunYuanGB-BD|AR FangXinRunYuanGB BD|Regular|1.00|
+|AR FangXinRunYuanGB DB.ttf|AR FangXinRunYuanGB DB|ARFangXinRunYuanGB-DB|AR FangXinRunYuanGB DB|Regular|1.00|
+|AR FangXinRunYuanGB EB.ttf|AR FangXinRunYuanGB EB|ARFangXinRunYuanGB-EB|AR FangXinRunYuanGB EB|Regular|1.00|
+|AR FangXinRunYuanGB HV.ttf|AR FangXinRunYuanGB HV|ARFangXinRunYuanGB-HV|AR FangXinRunYuanGB HV|Regular|1.10|
+|AR FangXinRunYuanGB MD.ttf|AR FangXinRunYuanGB MD|ARFangXinRunYuanGB-MD|AR FangXinRunYuanGB MD|Regular|1.00|
+|AR FangXinShuH7C95G30 BD.ttf|AR FangXinShuH7C95G30 BD|ARFangXinShuH7C95G30-BD|AR FangXinShuH7C95G30 BD|Regular|1.00|
+|AR FangXinShuH7C95G30 DB.ttf|AR FangXinShuH7C95G30 DB|ARFangXinShuH7C95G30-DB|AR FangXinShuH7C95G30 DB|Regular|1.00|
+|AR FangXinShuH7C95G30 EB.ttf|AR FangXinShuH7C95G30 EB|ARFangXinShuH7C95G30-EB|AR FangXinShuH7C95G30 EB|Regular|1.00|
+|AR FangXinShuH7C95G30 HV.ttf|AR FangXinShuH7C95G30 HV|ARFangXinShuH7C95G30-HV|AR FangXinShuH7C95G30 HV|Regular|1.00|
+|AR FangXinShuH7C95G30 MD.ttf|AR FangXinShuH7C95G30 MD|ARFangXinShuH7C95G30-MD|AR FangXinShuH7C95G30 MD|Regular|1.00|
+|AR UDJingXiHeiE1B5HK HR.ttf|AR UDJingXiHeiE1B5HK HR|ARUDJingXiHeiE1B5HK-HR|AR UDJingXiHeiE1B5HK HR|Regular|1.00|

@@ -45,6 +45,11 @@ font_id,name,name_en,Font Format
 1521599620002,AR板体_B,AR ItataiJP BD,Japanese JIS 0208-2004
 1521599620003,AR板体_E,AR ItataiJP EB,Japanese JIS 0208-2004
 1521599620004,AR板体_H,AR ItataiJP HV,Japanese JIS 0208-2004
+1553656009013,AR晶熙潤ゴシック体_B,AR JingXiRunHeiJP BD,Japanese JIS 0208-2004
+1553656009012,AR晶熙潤ゴシック体_D,AR JingXiRunHeiJP DB,Japanese JIS 0208-2004
+1553656009014,AR晶熙潤ゴシック体_E,AR JingXiRunHeiJP EB,Japanese JIS 0208-2004
+1553656009015,AR晶熙潤ゴシック体_H,AR JingXiRunHeiJP HV,Japanese JIS 0208-2004
+1553656009011,AR晶熙潤ゴシック体_M,AR JingXiRunHeiJP MD,Japanese JIS 0208-2004
 1540350847001,AR楷書体_M,AR KaishoJP MD,Japanese JIS 0208-2004
 1537932281609,AR勘亭流_H,AR KanteiryuJP HV,Japanese JIS 0208-2004
 1532419302756,AR古印体_B,AR KoinJP BD,Japanese JIS 0208-2004
@@ -82,6 +87,11 @@ font_id,name,name_en,Font Format
 1503644840004,AR丸印篆_B,AR WanyinzhuaiJP BD,Japanese JIS 0208-2004
 1503644840005,AR丸印篆_L,AR WanyinzhuaiJP LT,Japanese JIS 0208-2004
 1503644840007,AR悠々ゴシック体_E,AR YuyuGothicJP EB,Japanese JIS 0208-2004
+1553656009023,AR JingXiRunHeiKR BD,AR JingXiRunHeiKR BD,Korean KS X 1001 (Hangul Only)
+1553656009022,AR JingXiRunHeiKR DB,AR JingXiRunHeiKR DB,Korean KS X 1001 (Hangul Only)
+1553656009024,AR JingXiRunHeiKR EB,AR JingXiRunHeiKR EB,Korean KS X 1001 (Hangul Only)
+1553656009025,AR JingXiRunHeiKR HV,AR JingXiRunHeiKR HV,Korean KS X 1001 (Hangul Only)
+1553656009021,AR JingXiRunHeiKR MD,AR JingXiRunHeiKR MD,Korean KS X 1001 (Hangul Only)
 1457343158305,AR MyungjoKR MD,AR MyungjoKR MD,Korean KS X 1001 (Hangul Only)
 1545792181118,AR UDJingXiHeiE1KR BD,AR UDJingXiHeiE1KR BD,Korean KS X 1001 (Hangul Only)
 1545792181117,AR UDJingXiHeiE1KR DB,AR UDJingXiHeiE1KR DB,Korean KS X 1001 (Hangul Only)
@@ -411,10 +421,6 @@ font_id,name,name_en,Font Format
 1475200000131,Prometo Thin Italic,Prometo Thin Italic,Latin ISO 8859-1/Latin ISO 8859-2
 1475200000129,Prometo XBold,Prometo XBold,Latin ISO 8859-1/Latin ISO 8859-2
 1475200000136,Prometo XBold Italic,Prometo XBold Italic,Latin ISO 8859-1/Latin ISO 8859-2
-1475200000196,Royalty Anorexic,Royalty Anorexic,Latin ISO 8859-1/Latin ISO 8859-2
-1475200000197,Royalty Average,Royalty Average,Latin ISO 8859-1/Latin ISO 8859-2
-1475200000198,Royalty Chubby,Royalty Chubby,Latin ISO 8859-1/Latin ISO 8859-2
-1475200000199,Royalty Obese,Royalty Obese,Latin ISO 8859-1/Latin ISO 8859-2
 1475200000224,Setimo,Setimo,Latin ISO 8859-1/Latin ISO 8859-2
 1475200000225,Setimo Bold,Setimo Bold,Latin ISO 8859-1/Latin ISO 8859-2
 1475200000228,Setimo Bold Italic,Setimo Bold Italic,Latin ISO 8859-1/Latin ISO 8859-2
@@ -514,6 +520,16 @@ font_id,name,name_en,Font Format
 1434617285477,文鼎晶栩中粗黑G30,AR CrystalHeiG30 DB,Simplified Chinese GB18030
 1434617320818,文鼎晶栩中黑G30,AR CrystalHeiG30 MD,Simplified Chinese GB18030
 1436923366415,文鼎DC老外宋G30,AR DCLaoWaiSongG30,Simplified Chinese GB18030
+1553656009003,文鼎方新书H7C80G30_B,AR FangXinShuH7C80G30 BD,Simplified Chinese GB18030
+1553656009002,文鼎方新书H7C80G30_D,AR FangXinShuH7C80G30 DB,Simplified Chinese GB18030
+1553656009004,文鼎方新书H7C80G30_E,AR FangXinShuH7C80G30 EB,Simplified Chinese GB18030
+1553656009005,文鼎方新书H7C80G30_H,AR FangXinShuH7C80G30 HV,Simplified Chinese GB18030
+1553656009001,文鼎方新书H7C80G30_M,AR FangXinShuH7C80G30 MD,Simplified Chinese GB18030
+1553656009008,文鼎方新书H7C90G30_B,AR FangXinShuH7C90G30 BD,Simplified Chinese GB18030
+1553656009007,文鼎方新书H7C90G30_D,AR FangXinShuH7C90G30 DB,Simplified Chinese GB18030
+1553656009009,文鼎方新书H7C90G30_E,AR FangXinShuH7C90G30 EB,Simplified Chinese GB18030
+1553656009010,文鼎方新书H7C90G30_H,AR FangXinShuH7C90G30 HV,Simplified Chinese GB18030
+1553656009006,文鼎方新书H7C90G30_M,AR FangXinShuH7C90G30 MD,Simplified Chinese GB18030
 1548212887264,文鼎方新书H7G30_B,AR FangXinShuH7G30 BD,Simplified Chinese GB18030
 1548212887263,文鼎方新书H7G30_D,AR FangXinShuH7G30 DB,Simplified Chinese GB18030
 1548212887265,文鼎方新书H7G30_E,AR FangXinShuH7G30 EB,Simplified Chinese GB18030
@@ -705,6 +721,11 @@ font_id,name,name_en,Font Format
 1458111021297,文鼎DC黄阳尖魏体_B,AR DCHYJianWeiGB BD,Simplified Chinese GB2312+GB12345
 1479451625929,文鼎DC香蕉人体_B,AR DCXiangJiaoRenGB BD,Simplified Chinese GB2312+GB12345
 1508809430003,文鼎DC云康钢笔行楷_B,AR DCYKPenXingKaiGB BD,Simplified Chinese GB2312+GB12345
+1553656009018,文鼎晶熙润黑_B,AR JingXiRunHeiGB BD,Simplified Chinese GB2312+GB12345
+1553656009017,文鼎晶熙润黑_D,AR JingXiRunHeiGB DB,Simplified Chinese GB2312+GB12345
+1553656009019,文鼎晶熙润黑_E,AR JingXiRunHeiGB EB,Simplified Chinese GB2312+GB12345
+1553656009020,文鼎晶熙润黑_H,AR JingXiRunHeiGB HV,Simplified Chinese GB2312+GB12345
+1553656009016,文鼎晶熙润黑_M,AR JingXiRunHeiGB MD,Simplified Chinese GB2312+GB12345
 1542765204302,文鼎UD晶熙黑体E1_HR,AR UDJingXiHeiE1GB HR,Simplified Chinese GB2312+GB12345
 1542765204303,文鼎UD晶熙黑体E1_TH,AR UDJingXiHeiE1GB TH,Simplified Chinese GB2312+GB12345
 1548212887261,文鼎UD晶熙黑体E1_UBL,AR UDJingXiHeiE1GB UBL,Simplified Chinese GB2312+GB12345
@@ -1015,24 +1036,24 @@ font_id,name,name_en,Font Format
 1442390125233,文鼎UD晶熙黑體AktivBHK_E,AR UDJingXiHeiAktivBHK EB,Traditional Chinese Big-5 + HKSCS-2008
 1442390198066,文鼎UD晶熙黑體AktivBHK_H,AR UDJingXiHeiAktivBHK HV,Traditional Chinese Big-5 + HKSCS-2008
 1442389882174,文鼎UD晶熙黑體AktivBHK_L,AR UDJingXiHeiAktivBHK LT,Traditional Chinese Big-5 + HKSCS-2008
-1434617692168,文鼎UD晶熙黑體HK_B,AR UDJingXiHeiB5HK BD,Traditional Chinese Big-5 + HKSCS-2008
-1434617623498,文鼎UD晶熙黑體HK_D,AR UDJingXiHeiB5HK DB,Traditional Chinese Big-5 + HKSCS-2008
-1434617734885,文鼎UD晶熙黑體HK_E,AR UDJingXiHeiB5HK EB,Traditional Chinese Big-5 + HKSCS-2008
-1434617775452,文鼎UD晶熙黑體HK_H,AR UDJingXiHeiB5HK HV,Traditional Chinese Big-5 + HKSCS-2008
-1434617511335,文鼎UD晶熙黑體HK_M,AR UDJingXiHeiB5HK MD,Traditional Chinese Big-5 + HKSCS-2008
 1487067942515,文鼎UD晶熙黑體 B5Pro_B,AR UDJingXiHeiB5Pro BD,Traditional Chinese Big-5 + HKSCS-2008
 1487067735911,文鼎UD晶熙黑體 B5Pro_D,AR UDJingXiHeiB5Pro DB,Traditional Chinese Big-5 + HKSCS-2008
 1487068125979,文鼎UD晶熙黑體 B5Pro_E,AR UDJingXiHeiB5Pro EB,Traditional Chinese Big-5 + HKSCS-2008
 1487068271155,文鼎UD晶熙黑體 B5Pro_H,AR UDJingXiHeiB5Pro HV,Traditional Chinese Big-5 + HKSCS-2008
 1487067455076,文鼎UD晶熙黑體 B5Pro_M,AR UDJingXiHeiB5Pro MD,Traditional Chinese Big-5 + HKSCS-2008
-1434617936813,文鼎UD晶熙黑體E1HK_B,AR UDJingXiHeiE1B5HK BD,Traditional Chinese Big-5 + HKSCS-2008
-1434617888934,文鼎UD晶熙黑體E1HK_D,AR UDJingXiHeiE1B5HK DB,Traditional Chinese Big-5 + HKSCS-2008
-1434617996306,文鼎UD晶熙黑體E1HK_E,AR UDJingXiHeiE1B5HK EB,Traditional Chinese Big-5 + HKSCS-2008
-1434618041592,文鼎UD晶熙黑體E1HK_H,AR UDJingXiHeiE1B5HK HV,Traditional Chinese Big-5 + HKSCS-2008
 1542765204301,文鼎UD晶熙黑體E1HK_L,AR UDJingXiHeiE1B5HK LT,Traditional Chinese Big-5 + HKSCS-2008
-1434617823073,文鼎UD晶熙黑體E1HK_M,AR UDJingXiHeiE1B5HK MD,Traditional Chinese Big-5 + HKSCS-2008
 1497900000002,文鼎圓體HK_M,AR YuanB5HK MD,Traditional Chinese Big-5 + HKSCS-2008
 1537932281601,ARUDJingXiHeiE1B5HKVF(Beta),ARUDJingXiHeiE1B5HKVF(Beta),Traditional Chinese Big-5 + HKSCS-2008
+1434617692168,文鼎UD晶熙黑體HK_B,AR UDJingXiHeiB5HK BD,Traditional Chinese Big-5 + HKSCS-2016
+1434617623498,文鼎UD晶熙黑體HK_D,AR UDJingXiHeiB5HK DB,Traditional Chinese Big-5 + HKSCS-2016
+1434617734885,文鼎UD晶熙黑體HK_E,AR UDJingXiHeiB5HK EB,Traditional Chinese Big-5 + HKSCS-2016
+1434617775452,文鼎UD晶熙黑體HK_H,AR UDJingXiHeiB5HK HV,Traditional Chinese Big-5 + HKSCS-2016
+1434617511335,文鼎UD晶熙黑體HK_M,AR UDJingXiHeiB5HK MD,Traditional Chinese Big-5 + HKSCS-2016
+1434617936813,文鼎UD晶熙黑體E1HK_B,AR UDJingXiHeiE1B5HK BD,Traditional Chinese Big-5 + HKSCS-2016
+1434617888934,文鼎UD晶熙黑體E1HK_D,AR UDJingXiHeiE1B5HK DB,Traditional Chinese Big-5 + HKSCS-2016
+1434617996306,文鼎UD晶熙黑體E1HK_E,AR UDJingXiHeiE1B5HK EB,Traditional Chinese Big-5 + HKSCS-2016
+1434618041592,文鼎UD晶熙黑體E1HK_H,AR UDJingXiHeiE1B5HK HV,Traditional Chinese Big-5 + HKSCS-2016
+1434617823073,文鼎UD晶熙黑體E1HK_M,AR UDJingXiHeiE1B5HK MD,Traditional Chinese Big-5 + HKSCS-2016
 1491546184595,文鼎楷體外字_M,AR KaiEXT MD,Traditional Chinese Big-5(EXT)
 1491545676452,文鼎明體外字_M,AR MingEXT MD,Traditional Chinese Big-5(EXT)
 1491546725429,文鼎新黑體外字_M,AR NewHeiEXT MD,Traditional Chinese Big-5(EXT)
